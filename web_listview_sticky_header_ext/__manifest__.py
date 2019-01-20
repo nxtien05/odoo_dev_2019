@@ -10,7 +10,7 @@
     """,
 
     'author': "Ksolves , Tien",
-    'website': "https://www.ksolves.com/",
+    'website': "",
     'license': 'LGPL-3',
     'category': 'Tools',
     'version': '1.0.1',
